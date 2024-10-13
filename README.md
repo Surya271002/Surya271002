@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surya271002
+- 👋 Hi, I’m @Surya
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning In Besant Technologies 
 - 💞️ I’m looking to collaborate on ...
