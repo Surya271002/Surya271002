@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surya
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning In Besant Technologies 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
